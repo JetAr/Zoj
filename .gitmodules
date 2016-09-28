@@ -1,3 +1,27 @@
 [submodule "leetcode/soulmachine"]
 	path = leetcode/soulmachine
 	url = https://github.com/soulmachine/leetcode.git
+[submodule "leetcode/haoel"]
+	path = leetcode/haoel
+	url = https://github.com/haoel/leetcode.git
+[submodule "leetcode/kamyu104"]
+	path = leetcode/kamyu104
+	url = https://github.com/kamyu104/LeetCode.git
+[submodule "leetcode/leetcoders"]
+	path = leetcode/leetcoders
+	url = https://github.com/leetcoders/LeetCode.git
+[submodule "leetcode/iphkwan"]
+	path = leetcode/iphkwan
+	url = https://github.com/iphkwan/leetcode.git
+[submodule "leetcode/kedebug"]
+	path = leetcode/kedebug
+	url = https://github.com/kedebug/leetcode.git
+[submodule "leetcode/illuz"]
+	path = leetcode/illuz
+	url = https://github.com/illuz/leetcode.git
+[submodule "leetcode/gzwl"]
+	path = leetcode/gzwl
+	url = https://github.com/gzwl/leetcode.git
+[submodule "leetcode/pezy"]
+	path = leetcode/pezy
+	url = https://github.com/pezy/LeetCode.git
