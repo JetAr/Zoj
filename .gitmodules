@@ -1,0 +1,3 @@
+[submodule "leetcode/soulmachine"]
+	path = leetcode/soulmachine
+	url = https://github.com/soulmachine/leetcode.git
