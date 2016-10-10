@@ -16,9 +16,6 @@
 [submodule "leetcode/kedebug"]
 	path = leetcode/kedebug
 	url = https://github.com/kedebug/leetcode.git
-[submodule "leetcode/illuz"]
-	path = leetcode/illuz
-	url = https://github.com/illuz/leetcode.git
 [submodule "leetcode/gzwl"]
 	path = leetcode/gzwl
 	url = https://github.com/gzwl/leetcode.git
