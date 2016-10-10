@@ -22,3 +22,12 @@
 [submodule "leetcode/pezy"]
 	path = leetcode/pezy
 	url = https://github.com/pezy/LeetCode.git
+[submodule "interview/andreis"]
+	path = interview/andreis
+	url = https://github.com/andreis/interview.git
+[submodule "interview/jwasham"]
+	path = interview/jwasham
+	url = https://github.com/jwasham/google-interview-university.git
+[submodule "interview/maximabramchuck"]
+	path = interview/maximabramchuck
+	url = https://github.com/MaximAbramchuck/awesome-interview-questions.git
