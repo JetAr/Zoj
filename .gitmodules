@@ -16,9 +16,6 @@
 [submodule "leetcode/kedebug"]
 	path = leetcode/kedebug
 	url = https://github.com/kedebug/leetcode.git
-[submodule "leetcode/illuz"]
-	path = leetcode/illuz
-	url = https://github.com/illuz/leetcode.git
 [submodule "leetcode/gzwl"]
 	path = leetcode/gzwl
 	url = https://github.com/gzwl/leetcode.git
@@ -28,3 +25,13 @@
 [submodule "books/vhf"]
 	path = books/vhf
 	url = https://github.com/vhf/free-programming-books.git
+[submodule "interview/andreis"]
+	path = interview/andreis
+	url = https://github.com/andreis/interview.git
+[submodule "interview/jwasham"]
+	path = interview/jwasham
+	url = https://github.com/jwasham/google-interview-university.git
+[submodule "interview/maximabramchuck"]
+	path = interview/maximabramchuck
+	url = https://github.com/MaximAbramchuck/awesome-interview-questions.git
+
