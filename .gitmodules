@@ -25,3 +25,6 @@
 [submodule "leetcode/pezy"]
 	path = leetcode/pezy
 	url = https://github.com/pezy/LeetCode.git
+[submodule "books/vhf"]
+	path = books/vhf
+	url = https://github.com/vhf/free-programming-books.git
