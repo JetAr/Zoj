@@ -35,3 +35,6 @@
 	path = interview/maximabramchuck
 	url = https://github.com/MaximAbramchuck/awesome-interview-questions.git
 
+[submodule "opt/cxxopts"]
+	path = opt/cxxopts
+	url = https://github.com/jarro2783/cxxopts.git
