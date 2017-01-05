@@ -38,3 +38,30 @@
 [submodule "opt/cxxopts"]
 	path = opt/cxxopts
 	url = https://github.com/jarro2783/cxxopts.git
+[submodule "dx/HelloD3D12"]
+	path = dx/HelloD3D12
+	url = https://github.com/shobomaru/HelloD3D12.git
+[submodule "dx/awesome-d3d12"]
+	path = dx/awesome-d3d12
+	url = https://github.com/vinjn/awesome-d3d12.git
+[submodule "dx/GPUImage"]
+	path = dx/GPUImage
+	url = https://github.com/BradLarson/GPUImage.git
+[submodule "interview/ctci"]
+	path = interview/ctci
+	url = https://github.com/careercup/ctci.git
+[submodule "oj/awesome-competitive-programming"]
+	path = oj/awesome-competitive-programming
+	url = https://github.com/lnishan/awesome-competitive-programming.git
+[submodule "interview/awesome-interview-questions"]
+	path = interview/awesome-interview-questions
+	url = https://github.com/MaximAbramchuck/awesome-interview-questions.git
+[submodule "awesome/awesome-cpp"]
+	path = awesome/awesome-cpp
+	url = https://github.com/fffaraz/awesome-cpp.git
+[submodule "awesome/awesome-modern-cpp"]
+	path = awesome/awesome-modern-cpp
+	url = https://github.com/rigtorp/awesome-modern-cpp.git
+[submodule "awesome/awesome-c"]
+	path = awesome/awesome-c
+	url = https://github.com/aleksandar-todorovic/awesome-c.git
