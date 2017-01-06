@@ -68,3 +68,12 @@
 [submodule "dx/taichi"]
 	path = dx/taichi
 	url = https://github.com/IteratorAdvance/taichi.git
+[submodule "awesome/cpplinks"]
+	path = awesome/cpplinks
+	url = https://github.com/MattPD/cpplinks.git
+[submodule "socket/sockstress"]
+	path = socket/sockstress
+	url = https://github.com/mitghi/sockstress.git
+[submodule "dx/perftest"]
+	path = dx/perftest
+	url = https://github.com/sebbbi/perftest.git
