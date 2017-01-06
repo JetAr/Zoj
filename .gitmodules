@@ -77,3 +77,6 @@
 [submodule "dx/perftest"]
 	path = dx/perftest
 	url = https://github.com/sebbbi/perftest.git
+[submodule "dx/ex-sdl-cairo-freetype-harfbuzz"]
+	path = dx/ex-sdl-cairo-freetype-harfbuzz
+	url = https://github.com/anoek/ex-sdl-cairo-freetype-harfbuzz.git
