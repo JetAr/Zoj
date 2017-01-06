@@ -65,3 +65,6 @@
 [submodule "awesome/awesome-c"]
 	path = awesome/awesome-c
 	url = https://github.com/aleksandar-todorovic/awesome-c.git
+[submodule "dx/taichi"]
+	path = dx/taichi
+	url = https://github.com/IteratorAdvance/taichi.git
