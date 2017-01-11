@@ -80,3 +80,6 @@
 [submodule "dx/ex-sdl-cairo-freetype-harfbuzz"]
 	path = dx/ex-sdl-cairo-freetype-harfbuzz
 	url = https://github.com/anoek/ex-sdl-cairo-freetype-harfbuzz.git
+[submodule "books/douban_books_results"]
+	path = books/douban_books_results
+	url = https://github.com/yuzhounh/Douban_books_results.git
