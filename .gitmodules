@@ -86,3 +86,9 @@
 [submodule "dx/arcball_camera"]
 	path = dx/arcball_camera
 	url = https://github.com/nlguillemot/arcball_camera.git
+[submodule "dx/OpenGL-on-DXGI"]
+	path = dx/OpenGL-on-DXGI
+	url = https://github.com/nlguillemot/OpenGL-on-DXGI.git
+[submodule "linux/linux-insides"]
+	path = linux/linux-insides
+	url = https://github.com/0xAX/linux-insides.git
