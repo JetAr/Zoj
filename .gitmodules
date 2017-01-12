@@ -83,3 +83,6 @@
 [submodule "books/douban_books_results"]
 	path = books/douban_books_results
 	url = https://github.com/yuzhounh/Douban_books_results.git
+[submodule "dx/arcball_camera"]
+	path = dx/arcball_camera
+	url = https://github.com/nlguillemot/arcball_camera.git
