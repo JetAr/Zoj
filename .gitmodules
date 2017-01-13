@@ -101,3 +101,15 @@
 [submodule "opengl/cell"]
 	path = opengl/cell
 	url = https://github.com/JoeyDeVries/Cell.git
+[submodule "stitch/paanorama_pwyx"]
+	path = stitch/paanorama_pwyx
+	url = https://github.com/ppwwyyxx/panorama.git
+[submodule "game/raylib"]
+	path = game/raylib
+	url = https://github.com/raysan5/raylib.git
+[submodule "c/constexpr-8cc"]
+	path = c/constexpr-8cc
+	url = https://github.com/kw-udon/constexpr-8cc.git
+[submodule "awesome/awesomeperfcpp"]
+	path = awesome/awesomeperfcpp
+	url = https://github.com/fenbf/AwesomePerfCpp.git
