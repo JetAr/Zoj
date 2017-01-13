@@ -113,3 +113,6 @@
 [submodule "awesome/awesomeperfcpp"]
 	path = awesome/awesomeperfcpp
 	url = https://github.com/fenbf/AwesomePerfCpp.git
+[submodule "deeplearning/deeplearningbook"]
+	path = deeplearning/deeplearningbook
+	url = https://github.com/HFTrader/DeepLearningBook.git
