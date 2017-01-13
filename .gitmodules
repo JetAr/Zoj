@@ -95,3 +95,6 @@
 [submodule "memory/rpmalloc"]
 	path = memory/rpmalloc
 	url = https://github.com/rampantpixels/rpmalloc.git
+[submodule "c/foundation_lib"]
+	path = c/foundation_lib
+	url = https://github.com/rampantpixels/foundation_lib.git
