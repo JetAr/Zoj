@@ -98,3 +98,6 @@
 [submodule "c/foundation_lib"]
 	path = c/foundation_lib
 	url = https://github.com/rampantpixels/foundation_lib.git
+[submodule "opengl/cell"]
+	path = opengl/cell
+	url = https://github.com/JoeyDeVries/Cell.git
