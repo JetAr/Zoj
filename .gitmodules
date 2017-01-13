@@ -92,3 +92,6 @@
 [submodule "linux/linux-insides"]
 	path = linux/linux-insides
 	url = https://github.com/0xAX/linux-insides.git
+[submodule "memory/rpmalloc"]
+	path = memory/rpmalloc
+	url = https://github.com/rampantpixels/rpmalloc.git
