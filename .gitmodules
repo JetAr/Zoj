@@ -158,3 +158,21 @@
 [submodule "ui/nuklear"]
 	path = ui/nuklear
 	url = https://github.com/vurtun/nuklear.git
+[submodule "tiny/mmx"]
+	path = tiny/mmx
+	url = https://github.com/vurtun/mmx.git
+[submodule "c/libdhcore"]
+	path = c/libdhcore
+	url = https://github.com/septag/libdhcore.git
+[submodule "git/git-fat"]
+	path = git/git-fat
+	url = https://github.com/Loftilus/git-fat.git
+[submodule "mesh/tinyobjloader-c"]
+	path = mesh/tinyobjloader-c
+	url = https://github.com/syoyo/tinyobjloader-c.git
+[submodule "cmake/leathers"]
+	path = cmake/leathers
+	url = https://github.com/ruslo/leathers.git
+[submodule "cmake/polly"]
+	path = cmake/polly
+	url = https://github.com/ruslo/polly.git
