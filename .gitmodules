@@ -116,3 +116,45 @@
 [submodule "deeplearning/deeplearningbook"]
 	path = deeplearning/deeplearningbook
 	url = https://github.com/HFTrader/DeepLearningBook.git
+[submodule "mesh/draco"]
+	path = mesh/draco
+	url = https://github.com/google/draco.git
+[submodule "socket/iptree"]
+	path = socket/iptree
+	url = https://github.com/zmap/iptree.git
+[submodule "mesh/tinyobjloader"]
+	path = mesh/tinyobjloader
+	url = https://github.com/syoyo/tinyobjloader.git
+[submodule "gpu/pbrt-v3"]
+	path = gpu/pbrt-v3
+	url = https://github.com/mmp/pbrt-v3.git
+[submodule "socket/zmap"]
+	path = socket/zmap
+	url = https://github.com/zmap/zmap.git
+[submodule "ui/imgui"]
+	path = ui/imgui
+	url = https://github.com/ocornut/imgui.git
+[submodule "c/str"]
+	path = c/str
+	url = https://github.com/ocornut/str.git
+[submodule "audio/soloud"]
+	path = audio/soloud
+	url = https://github.com/jarikomppa/soloud.git
+[submodule "dx/dxwrapper"]
+	path = dx/dxwrapper
+	url = https://github.com/jarikomppa/dxwrapper.git
+[submodule "audio/aptk"]
+	path = audio/aptk
+	url = https://github.com/neilogd/aptk.git
+[submodule "tiny/stb"]
+	path = tiny/stb
+	url = https://github.com/nothings/stb.git
+[submodule "awesome/sigle_file_libs"]
+	path = awesome/sigle_file_libs
+	url = https://github.com/nothings/single_file_libs.git
+[submodule "socket/zed_net"]
+	path = socket/zed_net
+	url = https://github.com/Smilex/zed_net.git
+[submodule "ui/nuklear"]
+	path = ui/nuklear
+	url = https://github.com/vurtun/nuklear.git
