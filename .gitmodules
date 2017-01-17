@@ -182,3 +182,9 @@
 [submodule "mesh/meshoptimizer"]
 	path = mesh/meshoptimizer
 	url = https://github.com/zeux/meshoptimizer.git
+[submodule "grep/qgrep"]
+	path = grep/qgrep
+	url = https://github.com/zeux/qgrep.git
+[submodule "profiler/microprofile"]
+	path = profiler/microprofile
+	url = https://github.com/zeux/microprofile.git
