@@ -194,3 +194,6 @@
 [submodule "database/ssdb"]
 	path = database/ssdb
 	url = https://github.com/ideawu/ssdb.git
+[submodule "socket/icomet"]
+	path = socket/icomet
+	url = https://github.com/ideawu/icomet.git
