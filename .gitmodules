@@ -176,3 +176,6 @@
 [submodule "cmake/polly"]
 	path = cmake/polly
 	url = https://github.com/ruslo/polly.git
+[submodule "ui/cegui"]
+	path = ui/cegui
+	url = https://github.com/OpenTechEngine/CEGUI.git
