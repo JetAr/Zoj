@@ -206,3 +206,12 @@
 [submodule "script/iscript"]
 	path = script/iscript
 	url = https://github.com/PeterDing/iScript.git
+[submodule "json/picojson"]
+	path = json/picojson
+	url = https://github.com/kazuho/picojson.git
+[submodule "pattern/unco"]
+	path = pattern/unco
+	url = https://github.com/kazuho/unco.git
+[submodule "http/picohttpparser"]
+	path = http/picohttpparser
+	url = https://github.com/h2o/picohttpparser.git
