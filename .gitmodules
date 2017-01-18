@@ -218,3 +218,6 @@
 [submodule "dx/luna_dx11"]
 	path = dx/luna_dx11
 	url = https://github.com/utilForever/DirectX.git
+[submodule "http/h2o"]
+	path = http/h2o
+	url = https://github.com/h2o/h2o.git
