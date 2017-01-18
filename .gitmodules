@@ -197,3 +197,12 @@
 [submodule "socket/icomet"]
 	path = socket/icomet
 	url = https://github.com/ideawu/icomet.git
+[submodule "http/simple-web-server"]
+	path = http/simple-web-server
+	url = https://github.com/eidheim/Simple-Web-Server.git
+[submodule "gc/blinkgc"]
+	path = gc/blinkgc
+	url = https://github.com/weolar/blinkgc.git
+[submodule "script/iscript"]
+	path = script/iscript
+	url = https://github.com/PeterDing/iScript.git
