@@ -235,3 +235,6 @@
 [submodule "c/timer_lib"]
 	path = c/timer_lib
 	url = https://github.com/rampantpixels/timer_lib.git
+[submodule "c/str"]
+	path = c/str
+	url = https://github.com/ocornut/str.git
