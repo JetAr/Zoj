@@ -230,3 +230,9 @@
 [submodule "cpp/cpp-dependencies"]
 	path = cpp/cpp-dependencies
 	url = https://github.com/tomtom-international/cpp-dependencies.git
+[submodule "opengl/openglcpp"]
+	path = opengl/openglcpp
+	url = https://github.com/SaschaWillems/openglcpp.git
+[submodule "vulkan/vulkan"]
+	path = vulkan/vulkan
+	url = https://github.com/SaschaWillems/Vulkan.git
