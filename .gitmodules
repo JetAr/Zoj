@@ -133,9 +133,6 @@
 [submodule "ui/imgui"]
 	path = ui/imgui
 	url = https://github.com/ocornut/imgui.git
-[submodule "c/str"]
-	path = c/str
-	url = https://github.com/ocornut/str.git
 [submodule "audio/soloud"]
 	path = audio/soloud
 	url = https://github.com/jarikomppa/soloud.git
@@ -235,3 +232,6 @@
 [submodule "vulkan/vulkan"]
 	path = vulkan/vulkan
 	url = https://github.com/SaschaWillems/Vulkan.git
+[submodule "c/timer_lib"]
+	path = c/timer_lib
+	url = https://github.com/rampantpixels/timer_lib.git
