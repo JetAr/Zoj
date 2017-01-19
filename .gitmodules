@@ -236,3 +236,6 @@
 [submodule "vulkan/vulkan"]
 	path = vulkan/vulkan
 	url = https://github.com/SaschaWillems/Vulkan.git
+[submodule "c/timer_lib"]
+	path = c/timer_lib
+	url = https://github.com/rampantpixels/timer_lib.git
