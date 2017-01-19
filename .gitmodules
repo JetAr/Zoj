@@ -221,3 +221,6 @@
 [submodule "http/h2o"]
 	path = http/h2o
 	url = https://github.com/h2o/h2o.git
+[submodule "c/nflibs"]
+	path = c/nflibs
+	url = https://github.com/niklasfrykholm/nflibs.git
