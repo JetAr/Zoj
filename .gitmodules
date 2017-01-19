@@ -224,3 +224,9 @@
 [submodule "c/nflibs"]
 	path = c/nflibs
 	url = https://github.com/niklasfrykholm/nflibs.git
+[submodule "awesome/public-apis"]
+	path = awesome/public-apis
+	url = https://github.com/abhishekbanthia/Public-APIs.git
+[submodule "cpp/cpp-dependencies"]
+	path = cpp/cpp-dependencies
+	url = https://github.com/tomtom-international/cpp-dependencies.git
