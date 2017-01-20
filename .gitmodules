@@ -238,3 +238,6 @@
 [submodule "c/str"]
 	path = c/str
 	url = https://github.com/ocornut/str.git
+[submodule "ui/imguivr"]
+	path = ui/imguivr
+	url = https://github.com/temcgraw/ImguiVR.git
