@@ -241,3 +241,6 @@
 [submodule "ui/imguivr"]
 	path = ui/imguivr
 	url = https://github.com/temcgraw/ImguiVR.git
+[submodule "cpp/dlib"]
+	path = cpp/dlib
+	url = https://github.com/davisking/dlib.git
