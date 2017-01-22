@@ -247,3 +247,9 @@
 [submodule "oj/algorithm-exercise"]
 	path = oj/algorithm-exercise
 	url = https://github.com/billryan/algorithm-exercise.git
+[submodule "js/webtorrent"]
+	path = js/webtorrent
+	url = https://github.com/feross/webtorrent.git
+[submodule "vr/webvr"]
+	path = vr/webvr
+	url = https://github.com/w3c/webvr.git
