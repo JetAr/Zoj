@@ -430,3 +430,6 @@
 [submodule "socket/4.4bsd-lite2"]
 	path = socket/4.4bsd-lite2
 	url = https://github.com/chenshuo/4.4BSD-Lite2.git
+[submodule "log/recorder"]
+	path = log/recorder
+	url = https://github.com/BillyIII/recorder.git
