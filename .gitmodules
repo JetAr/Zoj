@@ -331,3 +331,6 @@
 [submodule "parser/pegtl"]
 	path = parser/pegtl
 	url = https://github.com/ColinH/PEGTL.git
+[submodule "json/yajl"]
+	path = json/yajl
+	url = https://github.com/lloyd/yajl.git
