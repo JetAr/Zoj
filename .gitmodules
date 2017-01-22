@@ -262,3 +262,6 @@
 [submodule "x64dbg/x64_tracer"]
 	path = x64dbg/x64_tracer
 	url = https://github.com/KurapicaBS/x64_tracer.git
+[submodule "json/rapidjson"]
+	path = json/rapidjson
+	url = https://github.com/miloyip/rapidjson.git
