@@ -376,3 +376,24 @@
 [submodule "rtmp/srs"]
 	path = rtmp/srs
 	url = https://github.com/ossrs/srs.git
+[submodule "rtmp/rtmpdump"]
+	path = rtmp/rtmpdump
+	url = https://github.com/aajanki/rtmpdump.git
+[submodule "rtmp/rtmprecoder"]
+	path = rtmp/rtmprecoder
+	url = https://github.com/beautifulSoup/RtmpRecoder.git
+[submodule "rtmp/simplertmp"]
+	path = rtmp/simplertmp
+	url = https://github.com/faucamp/SimpleRtmp.git
+[submodule "rtmp/rtmpserver"]
+	path = rtmp/rtmpserver
+	url = https://github.com/japeq/rtmpserver.git
+[submodule "rtmp/yasea"]
+	path = rtmp/yasea
+	url = https://github.com/begeekmyfriend/yasea.git
+[submodule "rtmp/anyrtc-rtmp"]
+	path = rtmp/anyrtc-rtmp
+	url = https://github.com/AnyRTC/AnyRTC-RTMP.git
+[submodule "rtmp/rtmpdump_sibras"]
+	path = rtmp/rtmpdump_sibras
+	url = https://github.com/ShiftMediaProject/rtmpdump.git
