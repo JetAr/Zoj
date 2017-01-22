@@ -289,3 +289,6 @@
 [submodule "json/jvar"]
 	path = json/jvar
 	url = https://github.com/YasserAsmi/jvar.git
+[submodule "json/json_taocpp"]
+	path = json/json_taocpp
+	url = https://github.com/taocpp/json.git
