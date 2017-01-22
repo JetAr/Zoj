@@ -253,3 +253,6 @@
 [submodule "vr/webvr"]
 	path = vr/webvr
 	url = https://github.com/w3c/webvr.git
+[submodule "x64dbg/xAnalyzer"]
+	path = x64dbg/xAnalyzer
+	url = https://github.com/ThunderCls/xAnalyzer.git
