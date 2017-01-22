@@ -334,3 +334,6 @@
 [submodule "json/yajl"]
 	path = json/yajl
 	url = https://github.com/lloyd/yajl.git
+[submodule "json/json-c"]
+	path = json/json-c
+	url = https://github.com/json-c/json-c.git
