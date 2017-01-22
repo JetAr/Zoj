@@ -256,3 +256,6 @@
 [submodule "x64dbg/xAnalyzer"]
 	path = x64dbg/xAnalyzer
 	url = https://github.com/ThunderCls/xAnalyzer.git
+[submodule "x64dbg/x64dbg"]
+	path = x64dbg/x64dbg
+	url = https://github.com/x64dbg/x64dbg.git
