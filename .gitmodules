@@ -367,3 +367,12 @@
 [submodule "json/gason"]
 	path = json/gason
 	url = https://github.com/vivkin/gason.git
+[submodule "rtmp/nginx-rtmp-module"]
+	path = rtmp/nginx-rtmp-module
+	url = https://github.com/arut/nginx-rtmp-module.git
+[submodule "http/nginx"]
+	path = http/nginx
+	url = https://github.com/nginx/nginx.git
+[submodule "rtmp/srs"]
+	path = rtmp/srs
+	url = https://github.com/ossrs/srs.git
