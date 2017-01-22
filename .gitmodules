@@ -397,3 +397,6 @@
 [submodule "rtmp/rtmpdump_sibras"]
 	path = rtmp/rtmpdump_sibras
 	url = https://github.com/ShiftMediaProject/rtmpdump.git
+[submodule "rtmp/rtmpclient"]
+	path = rtmp/rtmpclient
+	url = https://github.com/mntone/RtmpClient.git
