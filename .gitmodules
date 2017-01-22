@@ -265,3 +265,6 @@
 [submodule "json/rapidjson"]
 	path = json/rapidjson
 	url = https://github.com/miloyip/rapidjson.git
+[submodule "json/json-tutorial"]
+	path = json/json-tutorial
+	url = https://github.com/miloyip/json-tutorial.git
