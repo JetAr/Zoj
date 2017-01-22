@@ -283,3 +283,6 @@
 [submodule "log/loguru"]
 	path = log/loguru
 	url = https://github.com/emilk/loguru.git
+[submodule "cpp/emilib"]
+	path = cpp/emilib
+	url = https://github.com/emilk/emilib.git
