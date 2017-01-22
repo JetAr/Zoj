@@ -286,3 +286,6 @@
 [submodule "cpp/emilib"]
 	path = cpp/emilib
 	url = https://github.com/emilk/emilib.git
+[submodule "json/jvar"]
+	path = json/jvar
+	url = https://github.com/YasserAsmi/jvar.git
