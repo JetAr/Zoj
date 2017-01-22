@@ -406,3 +406,27 @@
 [submodule "rtmp/rtmp_relay_runner365"]
 	path = rtmp/rtmp_relay_runner365
 	url = https://github.com/runner365/rtmp_relay.git
+[submodule "rtmp/nginx-rtmpt-proxy-module"]
+	path = rtmp/nginx-rtmpt-proxy-module
+	url = https://github.com/kwojtek/nginx-rtmpt-proxy-module.git
+[submodule "rtmp/pushrtmpstreamsync"]
+	path = rtmp/pushrtmpstreamsync
+	url = https://github.com/zhaozhencn/PushRTMPStreamSync.git
+[submodule "log/glog"]
+	path = log/glog
+	url = https://github.com/google/glog.git
+[submodule "log/googletest"]
+	path = log/googletest
+	url = https://github.com/google/googletest.git
+[submodule "socket/muduo"]
+	path = socket/muduo
+	url = https://github.com/chenshuo/muduo.git
+[submodule "interview/interview_zieckey"]
+	path = interview/interview_zieckey
+	url = https://github.com/zieckey/interview.git
+[submodule "cpp/recipes"]
+	path = cpp/recipes
+	url = https://github.com/chenshuo/recipes.git
+[submodule "socket/4.4bsd-lite2"]
+	path = socket/4.4bsd-lite2
+	url = https://github.com/chenshuo/4.4BSD-Lite2.git
