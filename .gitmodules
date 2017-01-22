@@ -322,3 +322,6 @@
 [submodule "json/json-parser"]
 	path = json/json-parser
 	url = https://github.com/udp/json-parser.git
+[submodule "socket/lacewing"]
+	path = socket/lacewing
+	url = https://github.com/udp/lacewing.git
