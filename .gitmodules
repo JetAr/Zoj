@@ -301,3 +301,6 @@
 [submodule "json/ultrajson"]
 	path = json/ultrajson
 	url = https://github.com/esnme/ultrajson.git
+[submodule "json/pjson"]
+	path = json/pjson
+	url = https://github.com/ony/pjson.git
