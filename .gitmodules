@@ -244,3 +244,6 @@
 [submodule "cpp/dlib"]
 	path = cpp/dlib
 	url = https://github.com/davisking/dlib.git
+[submodule "oj/algorithm-exercise"]
+	path = oj/algorithm-exercise
+	url = https://github.com/billryan/algorithm-exercise.git
