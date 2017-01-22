@@ -277,3 +277,6 @@
 [submodule "json/cjson"]
 	path = json/cjson
 	url = https://github.com/DaveGamble/cJSON.git
+[submodule "json/configuru"]
+	path = json/configuru
+	url = https://github.com/emilk/Configuru.git
