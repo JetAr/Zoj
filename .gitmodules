@@ -268,3 +268,6 @@
 [submodule "json/json-tutorial"]
 	path = json/json-tutorial
 	url = https://github.com/miloyip/json-tutorial.git
+[submodule "json/nativejson-benchmark"]
+	path = json/nativejson-benchmark
+	url = https://github.com/miloyip/nativejson-benchmark.git
