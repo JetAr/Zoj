@@ -304,3 +304,6 @@
 [submodule "json/pjson"]
 	path = json/pjson
 	url = https://github.com/ony/pjson.git
+[submodule "json/jsmn"]
+	path = json/jsmn
+	url = https://github.com/zserge/jsmn.git
