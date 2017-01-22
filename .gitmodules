@@ -298,3 +298,6 @@
 [submodule "json/ujson4c"]
 	path = json/ujson4c
 	url = https://github.com/esnme/ujson4c.git
+[submodule "json/ultrajson"]
+	path = json/ultrajson
+	url = https://github.com/esnme/ultrajson.git
