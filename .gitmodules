@@ -259,3 +259,6 @@
 [submodule "x64dbg/x64dbg"]
 	path = x64dbg/x64dbg
 	url = https://github.com/x64dbg/x64dbg.git
+[submodule "x64dbg/x64_tracer"]
+	path = x64dbg/x64_tracer
+	url = https://github.com/KurapicaBS/x64_tracer.git
