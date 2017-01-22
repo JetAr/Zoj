@@ -271,3 +271,6 @@
 [submodule "json/nativejson-benchmark"]
 	path = json/nativejson-benchmark
 	url = https://github.com/miloyip/nativejson-benchmark.git
+[submodule "json/jsonxx"]
+	path = json/jsonxx
+	url = https://github.com/hjiang/jsonxx.git
