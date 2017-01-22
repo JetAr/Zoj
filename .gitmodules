@@ -307,3 +307,6 @@
 [submodule "json/jsmn"]
 	path = json/jsmn
 	url = https://github.com/zserge/jsmn.git
+[submodule "json/jsoncons"]
+	path = json/jsoncons
+	url = https://github.com/danielaparker/jsoncons.git
