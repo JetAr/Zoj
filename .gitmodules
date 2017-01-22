@@ -274,3 +274,6 @@
 [submodule "json/jsonxx"]
 	path = json/jsonxx
 	url = https://github.com/hjiang/jsonxx.git
+[submodule "json/cjson"]
+	path = json/cjson
+	url = https://github.com/DaveGamble/cJSON.git
