@@ -352,3 +352,18 @@
 [submodule "json/json11"]
 	path = json/json11
 	url = https://github.com/dropbox/json11.git
+[submodule "json/json_kr"]
+	path = json/json_kr
+	url = https://github.com/kr/json.git
+[submodule "queue/beanstalkd"]
+	path = queue/beanstalkd
+	url = https://github.com/kr/beanstalkd.git
+[submodule "ut/ct"]
+	path = ut/ct
+	url = https://github.com/kr/ct.git
+[submodule "json/jsoncpp"]
+	path = json/jsoncpp
+	url = https://github.com/open-source-parsers/jsoncpp.git
+[submodule "json/gason"]
+	path = json/gason
+	url = https://github.com/vivkin/gason.git
