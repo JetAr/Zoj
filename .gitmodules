@@ -337,3 +337,6 @@
 [submodule "json/json-c"]
 	path = json/json-c
 	url = https://github.com/json-c/json-c.git
+[submodule "json/json_deepinit-arek"]
+	path = json/json_deepinit-arek
+	url = https://github.com/deepinit-arek/json.git
