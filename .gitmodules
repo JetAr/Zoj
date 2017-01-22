@@ -340,3 +340,15 @@
 [submodule "json/json_deepinit-arek"]
 	path = json/json_deepinit-arek
 	url = https://github.com/deepinit-arek/json.git
+[submodule "kv/silt"]
+	path = kv/silt
+	url = https://github.com/silt/silt.git
+[submodule "socket/cpp-netlib"]
+	path = socket/cpp-netlib
+	url = https://github.com/glynos/cpp-netlib.git
+[submodule "socket/epoll_threadpool"]
+	path = socket/epoll_threadpool
+	url = https://github.com/aarond10/epoll_threadpool.git
+[submodule "json/json11"]
+	path = json/json11
+	url = https://github.com/dropbox/json11.git
