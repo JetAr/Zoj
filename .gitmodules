@@ -292,3 +292,6 @@
 [submodule "json/json_taocpp"]
 	path = json/json_taocpp
 	url = https://github.com/taocpp/json.git
+[submodule "json/ujson"]
+	path = json/ujson
+	url = https://bitbucket.org/awangk/ujson.git
