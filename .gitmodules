@@ -313,3 +313,6 @@
 [submodule "json/fastjson"]
 	path = json/fastjson
 	url = https://github.com/mikeando/fastjson.git
+[submodule "json/sajson"]
+	path = json/sajson
+	url = https://github.com/chadaustin/sajson.git
