@@ -400,3 +400,9 @@
 [submodule "rtmp/rtmpclient"]
 	path = rtmp/rtmpclient
 	url = https://github.com/mntone/RtmpClient.git
+[submodule "rtmp/rtmp_relay"]
+	path = rtmp/rtmp_relay
+	url = https://github.com/elnormous/rtmp_relay.git
+[submodule "rtmp/rtmp_relay_runner365"]
+	path = rtmp/rtmp_relay_runner365
+	url = https://github.com/runner365/rtmp_relay.git
