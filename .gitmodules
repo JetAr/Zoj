@@ -436,3 +436,6 @@
 [submodule "crypt/tiny-aes128-c"]
 	path = crypt/tiny-aes128-c
 	url = https://github.com/kokke/tiny-AES128-C.git
+[submodule "profiler/easy_profiler"]
+	path = profiler/easy_profiler
+	url = https://github.com/yse/easy_profiler.git
