@@ -439,3 +439,33 @@
 [submodule "profiler/easy_profiler"]
 	path = profiler/easy_profiler
 	url = https://github.com/yse/easy_profiler.git
+[submodule "id-software/domm-3-bfg"]
+	path = id-software/domm-3-bfg
+	url = https://github.com/id-Software/DOOM-3-BFG.git
+[submodule "id-software/quake-2"]
+	path = id-software/quake-2
+	url = https://github.com/id-Software/Quake-2.git
+[submodule "id-software/quake-iii-arena"]
+	path = id-software/quake-iii-arena
+	url = https://github.com/id-Software/Quake-III-Arena.git
+[submodule "id-software/doom-3"]
+	path = id-software/doom-3
+	url = https://github.com/id-Software/DOOM-3.git
+[submodule "id-software/rtcw-sp"]
+	path = id-software/rtcw-sp
+	url = https://github.com/id-Software/RTCW-SP.git
+[submodule "id-software/doom"]
+	path = id-software/doom
+	url = https://github.com/id-Software/DOOM.git
+[submodule "id-software/wolf3d"]
+	path = id-software/wolf3d
+	url = https://github.com/id-Software/wolf3d.git
+[submodule "id-software/quake"]
+	path = id-software/quake
+	url = https://github.com/id-Software/Quake.git
+[submodule "id-software/quake-tools"]
+	path = id-software/quake-tools
+	url = https://github.com/id-Software/Quake-Tools.git
+[submodule "id-software/doomretro"]
+	path = id-software/doomretro
+	url = https://github.com/bradharding/doomretro.git
