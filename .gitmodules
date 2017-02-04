@@ -472,3 +472,6 @@
 [submodule "id-software/chocolate-doom"]
 	path = id-software/chocolate-doom
 	url = https://github.com/chocolate-doom/chocolate-doom.git
+[submodule "awesome/awesome-networking"]
+	path = awesome/awesome-networking
+	url = https://github.com/clowwindy/Awesome-Networking.git
