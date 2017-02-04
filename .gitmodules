@@ -469,3 +469,6 @@
 [submodule "id-software/doomretro"]
 	path = id-software/doomretro
 	url = https://github.com/bradharding/doomretro.git
+[submodule "id-software/chocolate-doom"]
+	path = id-software/chocolate-doom
+	url = https://github.com/chocolate-doom/chocolate-doom.git
