@@ -433,3 +433,6 @@
 [submodule "log/recorder"]
 	path = log/recorder
 	url = https://github.com/BillyIII/recorder.git
+[submodule "crypt/tiny-aes128-c"]
+	path = crypt/tiny-aes128-c
+	url = https://github.com/kokke/tiny-AES128-C.git
