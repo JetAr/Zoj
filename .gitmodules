@@ -475,3 +475,6 @@
 [submodule "awesome/awesome-networking"]
 	path = awesome/awesome-networking
 	url = https://github.com/clowwindy/Awesome-Networking.git
+[submodule "ds/concurrent-data-structures"]
+	path = ds/concurrent-data-structures
+	url = https://github.com/jfuentes/concurrent-data-structures.git
