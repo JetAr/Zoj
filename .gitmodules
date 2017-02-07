@@ -478,3 +478,12 @@
 [submodule "ds/concurrent-data-structures"]
 	path = ds/concurrent-data-structures
 	url = https://github.com/jfuentes/concurrent-data-structures.git
+[submodule "hash/xxHash"]
+	path = hash/xxHash
+	url = https://github.com/Cyan4973/xxHash.git
+[submodule "hash/sparsehash"]
+	path = hash/sparsehash
+	url = https://github.com/sparsehash/sparsehash.git
+[submodule "hash/smhasher"]
+	path = hash/smhasher
+	url = https://github.com/aappleby/smhasher.git
