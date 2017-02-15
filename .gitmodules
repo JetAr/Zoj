@@ -487,3 +487,9 @@
 [submodule "hash/smhasher"]
 	path = hash/smhasher
 	url = https://github.com/aappleby/smhasher.git
+[submodule "cpp/cppcoreduidelines"]
+	path = cpp/cppcoreduidelines
+	url = https://github.com/isocpp/CppCoreGuidelines.git
+[submodule "cpp/gsl"]
+	path = cpp/gsl
+	url = https://github.com/Microsoft/GSL.git
