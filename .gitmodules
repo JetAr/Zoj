@@ -514,3 +514,30 @@
 [submodule "gpu/jpeg_gpu"]
 	path = gpu/jpeg_gpu
 	url = https://github.com/negge/jpeg_gpu.git
+[submodule "html/htmlbutcher"]
+	path = html/htmlbutcher
+	url = https://github.com/RangelReale/htmlbutcher.git
+[submodule "serilization/cereal"]
+	path = serilization/cereal
+	url = https://github.com/USCiLab/cereal.git
+[submodule "stl/eastl"]
+	path = stl/eastl
+	url = https://github.com/electronicarts/EASTL.git
+[submodule "stl/tinystl"]
+	path = stl/tinystl
+	url = https://github.com/mendsley/tinystl.git
+[submodule "http/tinyhttp"]
+	path = http/tinyhttp
+	url = https://github.com/mendsley/tinyhttp.git
+[submodule "audio/tinyaudio"]
+	path = audio/tinyaudio
+	url = https://github.com/mendsley/tinyaudio.git
+[submodule "mixer/tinymixer"]
+	path = mixer/tinymixer
+	url = https://github.com/mendsley/tinymixer.git
+[submodule "cpp/cppcheck"]
+	path = cpp/cppcheck
+	url = https://github.com/danmar/cppcheck.git
+[submodule "awesome/awesome"]
+	path = awesome/awesome
+	url = https://github.com/sindresorhus/awesome.git
