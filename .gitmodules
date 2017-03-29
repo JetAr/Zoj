@@ -502,3 +502,6 @@
 [submodule "virus/tinynuke"]
 	path = virus/tinynuke
 	url = https://github.com/aainz/TinyNuke.git
+[submodule "vs/shortcut/shortcutexporter"]
+	path = vs/shortcut/shortcutexporter
+	url = https://github.com/madskristensen/ShortcutExporter.git
