@@ -541,3 +541,15 @@
 [submodule "awesome/awesome"]
 	path = awesome/awesome
 	url = https://github.com/sindresorhus/awesome.git
+[submodule "quake/ioq3"]
+	path = quake/ioq3
+	url = https://github.com/ioquake/ioq3.git
+[submodule "quake/quake"]
+	path = quake/quake
+	url = https://github.com/id-Software/Quake.git
+[submodule "quake/quake-2"]
+	path = quake/quake-2
+	url = https://github.com/id-Software/Quake-2.git
+[submodule "quake/spearmint"]
+	path = quake/spearmint
+	url = https://github.com/zturtleman/spearmint.git
