@@ -553,3 +553,39 @@
 [submodule "quake/spearmint"]
 	path = quake/spearmint
 	url = https://github.com/zturtleman/spearmint.git
+[submodule "da/klib"]
+	path = da/klib
+	url = https://github.com/attractivechaos/klib.git
+[submodule "png/lodepng"]
+	path = png/lodepng
+	url = https://github.com/lvandeve/lodepng.git
+[submodule "c/clib"]
+	path = c/clib
+	url = https://github.com/clibs/clib.git
+[submodule "c/ccan"]
+	path = c/ccan
+	url = https://github.com/rustyrussell/ccan.git
+[submodule "debug/backward-cpp"]
+	path = debug/backward-cpp
+	url = https://github.com/bombela/backward-cpp.git
+[submodule "add"]
+	path = add
+	url = https://github.com/bombela/CxxCoroutine.git
+[submodule "debug/ig-debugheap"]
+	path = debug/ig-debugheap
+	url = https://github.com/deplinenoise/ig-debugheap.git
+[submodule "debug/libtap"]
+	path = debug/libtap
+	url = https://github.com/zorgnax/libtap.git
+[submodule "debug/remotery"]
+	path = debug/remotery
+	url = https://github.com/Celtoys/Remotery.git
+[submodule "debug/vld"]
+	path = debug/vld
+	url = https://git01.codeplex.com/vld
+[submodule "socket/raknet"]
+	path = socket/raknet
+	url = https://github.com/OculusVR/RakNet.git
+[submodule "socket/silicon"]
+	path = socket/silicon
+	url = https://github.com/matt-42/silicon.git
