@@ -499,3 +499,6 @@
 [submodule "json/aijson"]
 	path = json/aijson
 	url = https://github.com/aainz/AiJson.git
+[submodule "virus/tinynuke"]
+	path = virus/tinynuke
+	url = https://github.com/aainz/TinyNuke.git
