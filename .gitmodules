@@ -496,3 +496,6 @@
 [submodule "awesome/aswsome-cv"]
 	path = awesome/aswsome-cv
 	url = https://github.com/posquit0/Awesome-CV.git
+[submodule "json/aijson"]
+	path = json/aijson
+	url = https://github.com/aainz/AiJson.git
