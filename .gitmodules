@@ -505,3 +505,6 @@
 [submodule "vs/shortcut/shortcutexporter"]
 	path = vs/shortcut/shortcutexporter
 	url = https://github.com/madskristensen/ShortcutExporter.git
+[submodule "interview/coding-interview-university"]
+	path = interview/coding-interview-university
+	url = https://github.com/jwasham/coding-interview-university.git
