@@ -508,3 +508,9 @@
 [submodule "interview/coding-interview-university"]
 	path = interview/coding-interview-university
 	url = https://github.com/jwasham/coding-interview-university.git
+[submodule "option/cpp-optparse"]
+	path = option/cpp-optparse
+	url = https://github.com/weisslj/cpp-optparse.git
+[submodule "gpu/jpeg_gpu"]
+	path = gpu/jpeg_gpu
+	url = https://github.com/negge/jpeg_gpu.git
