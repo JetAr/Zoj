@@ -592,3 +592,9 @@
 [submodule "c/lowlevelprogramming-university"]
 	path = c/lowlevelprogramming-university
 	url = https://github.com/gurugio/lowlevelprogramming-university.git
+[submodule "game/games_leereilly"]
+	path = game/games_leereilly
+	url = https://github.com/leereilly/games.git
+[submodule "socket/uSockets"]
+	path = socket/uSockets
+	url = https://github.com/alexhultman/uSockets.git
