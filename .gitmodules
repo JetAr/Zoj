@@ -589,3 +589,6 @@
 [submodule "socket/silicon"]
 	path = socket/silicon
 	url = https://github.com/matt-42/silicon.git
+[submodule "c/lowlevelprogramming-university"]
+	path = c/lowlevelprogramming-university
+	url = https://github.com/gurugio/lowlevelprogramming-university.git
