@@ -598,3 +598,9 @@
 [submodule "socket/uSockets"]
 	path = socket/uSockets
 	url = https://github.com/alexhultman/uSockets.git
+[submodule "cpp/tinyformat"]
+	path = cpp/tinyformat
+	url = https://github.com/c42f/tinyformat.git
+[submodule "crypt/cryptopp"]
+	path = crypt/cryptopp
+	url = https://github.com/weidai11/cryptopp.git
