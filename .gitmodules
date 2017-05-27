@@ -604,3 +604,12 @@
 [submodule "crypt/cryptopp"]
 	path = crypt/cryptopp
 	url = https://github.com/weidai11/cryptopp.git
+[submodule "c/libmill"]
+	path = c/libmill
+	url = https://github.com/sustrik/libmill.git
+[submodule "c/libdill"]
+	path = c/libdill
+	url = https://github.com/sustrik/libdill.git
+[submodule "vim/amix_vimrc"]
+	path = vim/amix_vimrc
+	url = https://github.com/amix/vimrc.git
