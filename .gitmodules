@@ -613,3 +613,6 @@
 [submodule "vim/amix_vimrc"]
 	path = vim/amix_vimrc
 	url = https://github.com/amix/vimrc.git
+[submodule "awesome/Best-websites-a-programmer-should-visit"]
+	path = awesome/Best-websites-a-programmer-should-visit
+	url = https://github.com/sdmg15/Best-websites-a-programmer-should-visit.git
