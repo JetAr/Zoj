@@ -619,3 +619,6 @@
 [submodule "interview/interview_mission-peace"]
 	path = interview/interview_mission-peace
 	url = https://github.com/mission-peace/interview.git
+[submodule "pattern/design-patterns-for-humans"]
+	path = pattern/design-patterns-for-humans
+	url = https://github.com/kamranahmedse/design-patterns-for-humans.git
