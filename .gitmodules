@@ -628,3 +628,33 @@
 [submodule "da/awesome-lockfree"]
 	path = da/awesome-lockfree
 	url = https://github.com/rigtorp/awesome-lockfree.git
+[submodule "rpc/phxrpc"]
+	path = rpc/phxrpc
+	url = https://github.com/Tencent/phxrpc.git
+[submodule ".\\database\\tidb"]
+	path = .\\database\\tidb
+	url = https://github.com/pingcap/tidb.git
+[submodule "database/leveldb"]
+	path = database/leveldb
+	url = https://github.com/google/leveldb.git
+[submodule "database/qdb"]
+	path = database/qdb
+	url = https://github.com/reborndb/qdb.git
+[submodule "database/sqlite"]
+	path = database/sqlite
+	url = https://github.com/mackyle/sqlite.git
+[submodule "database/rocksdb"]
+	path = database/rocksdb
+	url = https://github.com/facebook/rocksdb.git
+[submodule "event/libevent"]
+	path = event/libevent
+	url = http://github.com/libevent/libevent
+[submodule "database/memcached"]
+	path = database/memcached
+	url = https://github.com/memcached/memcached
+[submodule "cpp/folly"]
+	path = cpp/folly
+	url = https://github.com/facebook/folly.git
+[submodule ".\\database\\redis"]
+	path = .\\database\\redis
+	url = https://github.com/antirez/redis.git
