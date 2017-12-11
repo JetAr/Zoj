@@ -661,3 +661,6 @@
 [submodule "debug/StackWalker"]
 	path = debug/StackWalker
 	url = https://github.com/JochenKalmbach/StackWalker.git
+[submodule "books/book_jing_li"]
+	path = books/book_jing_li
+	url = https://github.com/Jing--Li/book.git
