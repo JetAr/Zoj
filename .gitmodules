@@ -664,3 +664,6 @@
 [submodule "books/book_jing_li"]
 	path = books/book_jing_li
 	url = https://github.com/Jing--Li/book.git
+[submodule "string/fmt"]
+	path = string/fmt
+	url = https://github.com/fmtlib/fmt.git
