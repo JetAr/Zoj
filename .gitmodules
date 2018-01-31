@@ -667,3 +667,6 @@
 [submodule "string/fmt"]
 	path = string/fmt
 	url = https://github.com/fmtlib/fmt.git
+[submodule "books/cpp/Cpp-Primer-5th"]
+	path = books/cpp/Cpp-Primer-5th
+	url = https://github.com/Mooophy/Cpp-Primer.git
