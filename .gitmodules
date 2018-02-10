@@ -679,3 +679,27 @@
 [submodule "source/learn-with-open-source"]
 	path = source/learn-with-open-source
 	url = https://github.com/zhuangbiaowei/learn-with-open-source.git
+[submodule "http/c-web-server-aaronkalair"]
+	path = http/c-web-server-aaronkalair
+	url = https://github.com/AaronKalair/C-Web-Server.git
+[submodule "http/simple-web-server-eidheim"]
+	path = http/simple-web-server-eidheim
+	url = https://github.com/eidheim/Simple-Web-Server.git
+[submodule "http/tiny-web-server-shenfeng"]
+	path = http/tiny-web-server-shenfeng
+	url = https://github.com/shenfeng/tiny-web-server.git
+[submodule "http/http-ser-ver-indexzero"]
+	path = http/http-ser-ver-indexzero
+	url = https://github.com/indexzero/http-server.git
+[submodule "http/c-web-server-lambadaschool"]
+	path = http/c-web-server-lambadaschool
+	url = https://github.com/LambdaSchool/C-Web-Server.git
+[submodule "http/simple-webserver-labcoder"]
+	path = http/simple-webserver-labcoder
+	url = https://github.com/labcoder/simple-webserver.git
+[submodule "http/socket-c-pradyuman"]
+	path = http/socket-c-pradyuman
+	url = https://github.com/pradyuman/socket-c.git
+[submodule "http/onion-davidmoreno"]
+	path = http/onion-davidmoreno
+	url = https://github.com/davidmoreno/onion.git
