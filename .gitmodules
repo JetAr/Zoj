@@ -670,3 +670,12 @@
 [submodule "books/cpp/Cpp-Primer-5th"]
 	path = books/cpp/Cpp-Primer-5th
 	url = https://github.com/Mooophy/Cpp-Primer.git
+[submodule "leetcode/solve-leetcode-problems-jeantimex"]
+	path = leetcode/solve-leetcode-problems-jeantimex
+	url = https://github.com/jeantimex/solve-leetcode-problems.git
+[submodule ".\\books\\books_grogramthink"]
+	path = .\\books\\books_grogramthink
+	url = https://github.com/programthink/books.git
+[submodule "source/learn-with-open-source"]
+	path = source/learn-with-open-source
+	url = https://github.com/zhuangbiaowei/learn-with-open-source.git
