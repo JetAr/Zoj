@@ -703,3 +703,6 @@
 [submodule "http/onion-davidmoreno"]
 	path = http/onion-davidmoreno
 	url = https://github.com/davidmoreno/onion.git
+[submodule "debug/WinValgrind"]
+	path = debug/WinValgrind
+	url = https://github.com/anshulgoel27/WinValgrind.git
