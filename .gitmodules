@@ -712,3 +712,6 @@
 [submodule "interview/InterviewNotes"]
 	path = interview/InterviewNotes
 	url = https://github.com/CyC2018/InterviewNotes.git
+[submodule "awesome/awesome-cheatsheets"]
+	path = awesome/awesome-cheatsheets
+	url = https://github.com/skywind3000/awesome-cheatsheets.git
