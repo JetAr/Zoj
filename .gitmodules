@@ -706,6 +706,9 @@
 [submodule "debug/WinValgrind"]
 	path = debug/WinValgrind
 	url = https://github.com/anshulgoel27/WinValgrind.git
+[submodule "database/goleveldb"]
+	path = database/goleveldb
+	url = https://github.com/syndtr/goleveldb.git	
 [submodule "interview/InterviewNotes"]
 	path = interview/InterviewNotes
 	url = https://github.com/CyC2018/InterviewNotes.git
