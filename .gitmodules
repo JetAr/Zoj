@@ -715,3 +715,9 @@
 [submodule "awesome/awesome-cheatsheets"]
 	path = awesome/awesome-cheatsheets
 	url = https://github.com/skywind3000/awesome-cheatsheets.git
+[submodule "vim/SpaceVim"]
+	path = vim/SpaceVim
+	url = https://github.com/SpaceVim/SpaceVim.git
+[submodule "socket/hping"]
+	path = socket/hping
+	url = https://github.com/antirez/hping.git
