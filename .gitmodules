@@ -721,3 +721,6 @@
 [submodule "socket/hping"]
 	path = socket/hping
 	url = https://github.com/antirez/hping.git
+[submodule "thread/Cplusplus-Concurrency-In-Practice"]
+	path = thread/Cplusplus-Concurrency-In-Practice
+	url = https://github.com/forhappy/Cplusplus-Concurrency-In-Practice.git
