@@ -16,8 +16,9 @@ REM echo +---------+---------+---------+---------+---------+---------+---------+
 REM echo %FileTime% >> History.txt
 git add .
 REM git status >> History.txt
-git commit -am "%FileTime%"
-git push
+REM git commit -am "%FileTime%"
+git commit --amend
+git push --force
 
 endlocal
 
